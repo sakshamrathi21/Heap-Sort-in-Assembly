@@ -1,4 +1,4 @@
-# Question 3
+# Heap Sort in Assembly
 
 In this assignment you will implement a $\textbf{max heap}$ in the $\texttt{x86-64}$ assembly language. To do this, you will also have to implement a $\textbf{dynamic array}$ (ie a $\textbf{vector}$) in assembly. Note that a viva may be conducted for this lab.
 
